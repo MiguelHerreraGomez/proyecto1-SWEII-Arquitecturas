@@ -1,4 +1,55 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="id-4effffb1c87f4db1a88ac9279b7cf60b"/>
+    name="Vista basica"
+    id="id-4effffb1c87f4db1a88ac9279b7cf60b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fe1eef8a7d954646ad519848f466f6cc"
+      textAlignment="1">
+    <bounds
+        x="108"
+        y="60"
+        width="877"
+        height="373"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-e8481f8725f6448ab980d551341852af.xml#id-e8481f8725f6448ab980d551341852af"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3871a2f4e79e4e5182ebba36405f4bcc">
+    <bounds
+        x="300"
+        y="132"
+        width="121"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-a4b2d94cd226446abc9201df422c96cb.xml#id-a4b2d94cd226446abc9201df422c96cb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b62d1707264645a2989cf4622bdccbc1">
+    <bounds
+        x="300"
+        y="216"
+        width="121"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-a580eb925d8b45529cc7741e3b65fa4e.xml#id-a580eb925d8b45529cc7741e3b65fa4e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2bf367ad0728418999a1c2dd22923d7c">
+    <bounds
+        x="300"
+        y="288"
+        width="121"
+        height="49"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-4e0c9ed281d440f5b3d336cf0851f44c.xml#id-4e0c9ed281d440f5b3d336cf0851f44c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
